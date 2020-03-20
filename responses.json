@@ -1,0 +1,57 @@
+{  
+    "aprovadas":[
+        {  
+        "licence_plate":"JXS0855",
+        "year": "2007/2008" ,
+        "brand": "VW/Fox 1.0", 
+        "type": "Automóvel" ,
+        "color": "Vermelha", 
+        "kind": "Passageiro", 
+        "uf": "AM", 
+        "chassis": "dkfjsdjhr4rwesfhsdlkfjs", 
+        "engine": "4543857348957" ,
+        "chassis_photo": "",
+        "chassis_obs": "",
+        "engine_photo": "",
+        "engine_obs": "",
+        "front_photo": "",
+        "front_obs": "",
+        "back_photo": "",
+        "back_obs": "",
+        "hodometer_photo": "",
+        "hodometer_obs": "",
+        "survey_place": "Parqueamento" ,
+        "status": "Aprovada" ,
+        "data_insert": "2020-02-28",
+        "vistoria_id":1
+        },
+        {
+        "licence_plate":"PHB0254",
+        "year": "2010" ,
+        "brand": "FIAT/UNO 1.0", 
+        "type": "Automóvel" ,
+        "color": "Branca", 
+        "kind": "Passageiro", 
+        "uf": "AM", 
+        "chassis": "dkfjsdjhr4rwesfhsdlkfjs", 
+        "engine": "4543857348957" ,
+        "chassis_photo": "",
+        "chassis_obs": "",
+        "engine_photo": "",
+        "engine_obs": "",
+        "front_photo": "",
+        "front_obs": "",
+        "back_photo": "",
+        "back_obs": "",
+        "hodometer_photo": "",
+        "hodometer_obs": "",
+        "survey_place": "Parqueamento" ,
+        "status": "Aprovada" ,
+        "data_insert": "2020-02-28",
+        "vistoria_id":2
+        }
+      
+     ]
+    }
+    
+  
